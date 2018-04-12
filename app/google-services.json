@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "374040603879",
+    "firebase_url": "https://bismillah-5b98b.firebaseio.com",
+    "project_id": "bismillah-5b98b",
+    "storage_bucket": "bismillah-5b98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374040603879:android:e195514a09beff40",
+        "android_client_info": {
+          "package_name": "id.fadelf_1202150035_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374040603879-kte93hurfpf5qberp11l48epg0fn05lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.fadelf_1202150035_modul6",
+            "certificate_hash": "9456f2b6883dad792dbd1c4e26a9c81f2f19bdbd"
+          }
+        },
+        {
+          "client_id": "374040603879-fgnso765mefe4tptet49vhl0gf5gj8t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.fadelf_1202150035_modul6",
+            "certificate_hash": "1bb73455ac9725b1a42cdbf643612851d9bee4ad"
+          }
+        },
+        {
+          "client_id": "374040603879-veqdhkdode8ah7gq8co3obms89lep4nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2sxVswdBQ99tQsWujF0_ojosV0qHq43o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374040603879-veqdhkdode8ah7gq8co3obms89lep4nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
